@@ -1,1 +1,1 @@
-# Rsponding-Calculator
+# Responding-Calculator
